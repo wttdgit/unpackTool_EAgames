@@ -1,7 +1,12 @@
 仅仅搬运、并按需简化：  
 * a.运行寒霜3里面的1和2输出ogg音频数据
-* b.其他老旧的寒霜2引擎游戏，可以用寒霜2里py覆盖进来尝试dump，我没有亲自测试
+* b."输出路径" == "输入路径_sound",
+*     例如1.dump 原版游戏为 "E:\unpack_Battlefield4"、  2.dump 则默认输出为 "E:unpack_Battlefield4_sound"
+* c.其他老旧的寒霜2引擎游戏，可以用寒霜2里py覆盖进来尝试dump，我没有亲自测试
 * =============================================================
+
+
+
 
 These are Python scripts that allow you to extract assets from Frostbite Engine games.
 They're based off Frankelstner's scripts, I've updated them to Python 3 and did a bunch of tweaks and cleanups to them.
