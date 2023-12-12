@@ -4,8 +4,8 @@
 *     例如1.dump 原版游戏为 "E:\unpack_Battlefield4"、  2.dump 则默认输出为 "E:unpack_Battlefield4_sound"
 * c.其他老旧的寒霜2引擎游戏，可以用寒霜2里py覆盖进来尝试dump，我没有亲自测试
 * =============================================================
-
-
+* 新增apex和titanFall2的工具：LegionPlus及相关小工具（大量wav按首字符串归类文件夹、及复原、及wav转ogg的批量）
+* =============================================================
 
 
 These are Python scripts that allow you to extract assets from Frostbite Engine games.
